@@ -1,8 +1,8 @@
-## Data Visualization by Alexander Phan
+# Data Visualization by Alexander Phan
 
 For course CS 560 - Data Visualization, Fall 2020. 
 
-### Assignment 2: Introduction to Visualizing Amounts using P5
+## Assignment 2: Introduction to Visualizing Amounts using P5
 
 For this assignment, we were introduced to P5, a javascript library for creating graphic and interactive experiences. I created three visualizations: a bar chart, a dot plot, and a heat map.
 
