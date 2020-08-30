@@ -1,37 +1,12 @@
-## Data Visualization Page
+## Data Visualization by Alexander Phan
 
-You can use the [editor on GitHub](https://github.com/Alexander-Phan/data-visualization/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+For course CS 560 - Data Visualization, Fall 2020. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Assignment 2: Introduction to Visualizing Amounts using P5
 
-### Markdown
+For this assignment, we were introduced to P5, a javascript library for creating graphic and interactive experiences. I created three visualizations: a bar chart, a dot plot, and a heat map.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Alexander-Phan/data-visualization/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Here are the links to the visualizations:
+1. [Bar Chart](https://bl.ocks.org/Alexander-Phan/raw/438ac84c4ec2dd99914da43dbb7dcebc/)
+2. [Dot Plot](https://bl.ocks.org/Alexander-Phan/raw/e024d844c4e15856f833fb94875eba04/)
+3. [Heat Map](https://bl.ocks.org/Alexander-Phan/raw/369a83d07dbee7e496d5cb7e1ec73858/)
