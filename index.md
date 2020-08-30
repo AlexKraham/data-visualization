@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Data Visualization Page
 
 You can use the [editor on GitHub](https://github.com/Alexander-Phan/data-visualization/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
